@@ -2,7 +2,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/6JptszQgCnkAAAAi/text-work.gif">
 
-- My personal website [talhathmd.com](talhathmd.com)
+- My personal website [talhathmd.com](https://talhathmd.com)
 
 - Reach me at **txt0304@mavs.uta.edu**
 
