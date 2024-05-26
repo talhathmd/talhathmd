@@ -1,14 +1,10 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://cdn.dribbble.com/users/416610/screenshots/4801105/media/be031f8d02ca8cc404d44be54ee2c493.gif))](https://talhathmd.io)
 <h1 align="center">Hi 👋, I'm Talha</h1>
-<h3 align="center">Aspiring Software Engineer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/6JptszQgCnkAAAAi/text-work.gif">
 
 - My personal website [talhathmd.com](talhathmd.com)
 
-- 📫 How to reach me **txt0304@mavs.uta.edu**
-
-- 📄 Know about my experiences [https://talhathmd.com/static/media/Talha_Tahmid_Resume.386c38abc15cf103ccfe.pdf](https://talhathmd.com/static/media/Talha_Tahmid_Resume.386c38abc15cf103ccfe.pdf)
+- Reach me at **txt0304@mavs.uta.edu**
 
 - ⚡ Fun fact **My birthday is a Palindrome**
 
