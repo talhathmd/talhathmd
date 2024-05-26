@@ -1,7 +1,8 @@
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://cdn.dribbble.com/users/416610/screenshots/4801105/media/be031f8d02ca8cc404d44be54ee2c493.gif))](https://talhathmd.io)
 <h1 align="center">Hi 👋, I'm Talha</h1>
 <h3 align="center">Aspiring Software Engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talhathmd" alt="talhathmd" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/6JptszQgCnkAAAAi/text-work.gif">
 
 - My personal website [talhathmd.com](talhathmd.com)
 
