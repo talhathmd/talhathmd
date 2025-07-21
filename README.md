@@ -6,7 +6,7 @@
 
 - Reach me at **txt0304@mavs.uta.edu**
 
-- ⚡ Fun fact **My birthday is a Palindrome: 20022002** 
+- ⚡ Fun fact **My birthday is a Palindrome: 20022002** (dd-mm-yyyy) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
